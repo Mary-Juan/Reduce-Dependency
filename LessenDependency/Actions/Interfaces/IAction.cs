@@ -8,5 +8,6 @@ namespace LessenDependency.Actions.Interfaces
 {
     internal interface IAction
     {
+        void Action();
     }
 }
